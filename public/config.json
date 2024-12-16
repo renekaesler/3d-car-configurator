@@ -1,0 +1,37 @@
+{
+  "scenes": ["neutral", "carriageworks"],
+  "cars": [ "audi-a3-sedan-v8", "dodge"],
+  "wheels": ["audi", "r1h1"],
+  "materialPresets": {
+    "black": {
+      "albedo": [0, 0, 0],
+      "metallic": 0.5,
+      "roughness": 0.3,
+      "occlusion": 0.6
+    },
+    "silver": {
+      "albedo": [1.0, 1.0, 1.0],
+      "metallic": 0.63,
+      "roughness": 0.69,
+      "occlusion": 0.76
+    },
+    "white": {
+      "albedo": [1.0, 1.0, 1.0],
+      "metallic": 0.05,
+      "roughness": 0.37,
+      "occlusion": 1.0
+    },
+    "orange": {
+      "albedo": [1.0, 0.55, 0.043],
+      "metallic": 0.05,
+      "roughness": 0.37,
+      "occlusion": 1.0
+    },
+    "blue": {
+      "albedo": [0, 0.26, 0.73],
+      "etallic": 0.09,
+      "oughness": 0.37,
+      "cclusion": 0.95
+    }
+  }
+}

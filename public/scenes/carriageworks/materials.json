@@ -1,0 +1,8 @@
+{
+  "wall": {
+    "albedo": "walls.jpg"
+  },
+  "floor": {
+    "albedo": "floor.jpg"
+  }
+}

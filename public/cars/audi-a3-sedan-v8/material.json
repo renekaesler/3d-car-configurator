@@ -1,0 +1,76 @@
+{
+  "bodypaint": {
+    "albedo": [1.0, 0.647, 0.0, 1.0],
+    "metallic": 0.05,
+    "occlusion": "occlusion.png",
+    "roughness": 0.3
+  },
+  "chrome": {
+    "albedo": [1.0, 1.0, 1.0, 1.0],
+    "metallic": 1.0,
+    "occlusion": 1.0,
+    "roughness": 0.6
+  },
+  "darkredreflector" : {
+    "albedo": [0.5, 0.0, 0.0, 1.0],
+    "metallic": 0.05,
+    "occlusion": 1.0,
+    "roughness": 0.2
+  },
+  "darkglass" : {
+    "albedo": [0.0, 0.0, 0.0, 1.0],
+    "metallic": 0.1,
+    "occlusion": 0.5,
+    "roughness": 0.15,
+    "isTransparent": false
+  },
+  "glass": {
+    "albedo": [0.0, 0.0, 0.0, 0.45],
+    "metallic": 0.0,
+    "occlusion": 1.0,
+    "roughness": 0.1,
+    "isTransparent": true
+  },
+  "headlightsblur": {
+    "albedo": [1.0, 1.0, 1.0, 1.0],
+    "metallic": 0.0,
+    "occlusion": 1.0,
+    "roughness": 0.0
+  },
+  "redlight": {
+    "albedo": [1.0, 0.0, 0.0, 1.0],
+    "metallic": 0.05,
+    "occlusion": 1.0,
+    "roughness": 0.2
+  },
+  "whitelight": {
+    "albedo": [1.0, 1.0, 1.0, 1.0],
+    "metallic": 0.05,
+    "occlusion": 1.0,
+    "roughness": 0.2
+  },
+  "whitemetal": {
+    "albedo": [1.0, 1.0, 1.0, 1.0],
+    "metallic": 0.35,
+    "occlusion": 1.0,
+    "roughness": 1.0
+  },
+  "plastic": {
+    "albedo": [0.118, 0.118, 0.118, 1.0],
+    "metallic": 0.15,
+    "occlusion": 0.5,
+    "roughness": 1.0
+  },
+  "void": {
+    "albedo": [0.0, 0.0, 0.0, 1.0],
+    "metallic": 0.0,
+    "occlusion": 0.0,
+    "roughness": 1.0
+  },
+  "interior": {
+    "albedo": [0.0, 0.0, 0.0, 1.0],
+    "metallic": 0.0,
+    "occlusion": 0.1,
+    "roughness": 1.0
+  }
+}

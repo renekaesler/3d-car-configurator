@@ -1,0 +1,44 @@
+{
+  "aluPolished": {
+    "albedo": [1.0, 1.0, 1.0, 1.0],
+    "metallic": 1.0,
+    "occlusion": 0.9,
+    "roughness": 0.6
+  },
+  "aluPaintedBlack": {
+    "albedo": [0.0, 0.0, 0.0, 1.0],
+    "metallic": 1.0,
+    "occlusion": 0.4,
+    "roughness": 0.3
+  },
+  "chrome" : {
+    "albedo": [1.0, 1.0, 1.0, 1.0],
+    "metallic": 1.0,
+    "occlusion": 1.0,
+    "roughness": 0.5
+  },
+  "caliper" : {
+    "albedo": [0.725, 0.0, 0.0, 1.0],
+    "metallic": 0.3,
+    "occlusion": 0.4,
+    "roughness": 0.3
+  },
+  "metal": {
+    "albedo": [1.0, 1.0, 1.0, 1.0],
+    "metallic": 1.0,
+    "occlusion": 0.35,
+    "roughness": 0.63
+  },
+  "darkmetal": {
+    "albedo": [0.569, 0.569, 0.569, 1.0],
+    "metallic": 1.0,
+    "occlusion": 0.35,
+    "roughness": 0.63
+  },
+  "rubber": {
+    "albedo": [0.1, 0.1, 0.1, 1.0],
+    "metallic": 0.2,
+    "occlusion": 0.5,
+    "roughness": 1.0
+  }
+}

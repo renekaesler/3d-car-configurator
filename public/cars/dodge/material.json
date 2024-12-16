@@ -1,0 +1,358 @@
+{
+  "Badging_Chrome": {
+    "albedo": [0.5, 0.5, 0.5, 1.0],
+    "metallic": 1.0,
+    "occlusion": 1.0,
+    "roughness": 1.0
+  },
+  "Badging_Chrome0": {
+    "albedo": [0.5, 0.5, 0.5, 1.0],
+    "metallic": 1.0,
+    "occlusion": 1.0,
+    "roughness": 1.0
+  },
+  "Badging_Chrome1": {
+    "albedo": [0.5, 0.5, 0.5, 1.0],
+    "metallic": 1.0,
+    "occlusion": 1.0,
+    "roughness": 1.0
+  },
+  "Badging_Chrome2": {
+    "albedo": [0.5, 0.5, 0.5, 1.0],
+    "metallic": 1.0,
+    "occlusion": 1.0,
+    "roughness": 1.0
+  },
+  "Badging_Chrome3": {
+    "albedo": [0.5, 0.5, 0.5, 1.0],
+    "metallic": 1.0,
+    "occlusion": 1.0,
+    "roughness": 1.0
+  },
+  "Badging_Chrome5": {
+    "albedo": [0.5, 0.5, 0.5, 1.0],
+    "metallic": 1.0,
+    "occlusion": 1.0,
+    "roughness": 1.0
+  },
+  "Badging_Chrome6": {
+    "albedo": [0.5, 0.5, 0.5, 1.0],
+    "metallic": 1.0,
+    "occlusion": 1.0,
+    "roughness": 1.0
+  },
+  "Badging_Chrome7": {
+    "albedo": [0.5, 0.5, 0.5, 1.0],
+    "metallic": 1.0,
+    "occlusion": 1.0,
+    "roughness": 1.0
+  },
+  "Black": {
+    "albedo": [0.5, 0.5, 0.5, 1.0],
+    "metallic": 1.0,
+    "occlusion": 1.0,
+    "roughness": 1.0
+  },
+  "Bottom": {
+    "albedo": [0.5, 0.5, 0.5, 1.0],
+    "metallic": 1.0,
+    "occlusion": 1.0,
+    "roughness": 1.0
+  },
+  "Bottom0": {
+    "albedo": [0.5, 0.5, 0.5, 1.0],
+    "metallic": 1.0,
+    "occlusion": 1.0,
+    "roughness": 1.0
+  },
+  "Bottom1": {
+    "albedo": [0.5, 0.5, 0.5, 1.0],
+    "metallic": 1.0,
+    "occlusion": 1.0,
+    "roughness": 1.0
+  },
+  "Bottom2": {
+    "albedo": [0.5, 0.5, 0.5, 1.0],
+    "metallic": 1.0,
+    "occlusion": 1.0,
+    "roughness": 1.0
+  },
+  "DoorLine": {
+    "albedo": [0.5, 0.5, 0.5, 1.0],
+    "metallic": 1.0,
+    "occlusion": 1.0,
+    "roughness": 1.0
+  },
+  "DoorLine0": {
+    "albedo": [0.5, 0.5, 0.5, 1.0],
+    "metallic": 1.0,
+    "occlusion": 1.0,
+    "roughness": 1.0
+  },
+  "DoorLine1": {
+    "albedo": [0.5, 0.5, 0.5, 1.0],
+    "metallic": 1.0,
+    "occlusion": 1.0,
+    "roughness": 1.0
+  },
+  "DoorLine2": {
+    "albedo": [0.5, 0.5, 0.5, 1.0],
+    "metallic": 1.0,
+    "occlusion": 1.0,
+    "roughness": 1.0
+  },
+  "DoorLine4": {
+    "albedo": [0.5, 0.5, 0.5, 1.0],
+    "metallic": 1.0,
+    "occlusion": 1.0,
+    "roughness": 1.0
+  },
+  "Interior": {
+    "albedo": [0.5, 0.5, 0.5, 1.0],
+    "metallic": 1.0,
+    "occlusion": 1.0,
+    "roughness": 1.0
+  },
+  "License": {
+    "albedo": [0.5, 0.5, 0.5, 1.0],
+    "metallic": 1.0,
+    "occlusion": 1.0,
+    "roughness": 1.0
+  },
+  "Material__580": {
+    "albedo": [0.5, 0.5, 0.5, 1.0],
+    "metallic": 1.0,
+    "occlusion": 1.0,
+    "roughness": 1.0
+  },
+  "Material__585": {
+    "albedo": [0.5, 0.5, 0.5, 1.0],
+    "metallic": 1.0,
+    "occlusion": 1.0,
+    "roughness": 1.0
+  },
+  "Material__588": {
+    "albedo": [0.5, 0.5, 0.5, 1.0],
+    "metallic": 1.0,
+    "occlusion": 1.0,
+    "roughness": 1.0
+  },
+  "Material__595": {
+    "albedo": [0.5, 0.5, 0.5, 1.0],
+    "metallic": 1.0,
+    "occlusion": 1.0,
+    "roughness": 1.0
+  },
+  "Material__600": {
+    "albedo": [0.5, 0.5, 0.5, 1.0],
+    "metallic": 1.0,
+    "occlusion": 1.0,
+    "roughness": 1.0
+  },
+  "Material__601": {
+    "albedo": [0.5, 0.5, 0.5, 1.0],
+    "metallic": 1.0,
+    "occlusion": 1.0,
+    "roughness": 1.0
+  },
+  "Material__602": {
+    "albedo": [0.5, 0.5, 0.5, 1.0],
+    "metallic": 1.0,
+    "occlusion": 1.0,
+    "roughness": 1.0
+  },
+  "Material__6020": {
+    "albedo": [0.5, 0.5, 0.5, 1.0],
+    "metallic": 1.0,
+    "occlusion": 1.0,
+    "roughness": 1.0
+  },
+  "Material__6022": {
+    "albedo": [0.5, 0.5, 0.5, 1.0],
+    "metallic": 1.0,
+    "occlusion": 1.0,
+    "roughness": 1.0
+  },
+  "Material__6023": {
+    "albedo": [0.5, 0.5, 0.5, 1.0],
+    "metallic": 1.0,
+    "occlusion": 1.0,
+    "roughness": 1.0
+  },
+  "Material__6024": {
+    "albedo": [0.5, 0.5, 0.5, 1.0],
+    "metallic": 1.0,
+    "occlusion": 1.0,
+    "roughness": 1.0
+  },
+  "Material__610": {
+    "albedo": [0.5, 0.5, 0.5, 1.0],
+    "metallic": 1.0,
+    "occlusion": 1.0,
+    "roughness": 1.0
+  },
+  "Material__611": {
+    "albedo": [0.5, 0.5, 0.5, 1.0],
+    "metallic": 1.0,
+    "occlusion": 1.0,
+    "roughness": 1.0
+  },
+  "Misc": {
+    "albedo": [0.5, 0.5, 0.5, 1.0],
+    "metallic": 1.0,
+    "occlusion": 1.0,
+    "roughness": 1.0
+  },
+  "Misc0": {
+    "albedo": [0.5, 0.5, 0.5, 1.0],
+    "metallic": 1.0,
+    "occlusion": 1.0,
+    "roughness": 1.0
+  },
+  "Misc1": {
+    "albedo": [0.5, 0.5, 0.5, 1.0],
+    "metallic": 1.0,
+    "occlusion": 1.0,
+    "roughness": 1.0
+  },
+  "Misc10": {
+    "albedo": [0.5, 0.5, 0.5, 1.0],
+    "metallic": 1.0,
+    "occlusion": 1.0,
+    "roughness": 1.0
+  },
+  "Misc11": {
+    "albedo": [0.5, 0.5, 0.5, 1.0],
+    "metallic": 1.0,
+    "occlusion": 1.0,
+    "roughness": 1.0
+  },
+  "Misc2": {
+    "albedo": [0.5, 0.5, 0.5, 1.0],
+    "metallic": 1.0,
+    "occlusion": 1.0,
+    "roughness": 1.0
+  },
+  "Misc3": {
+    "albedo": [0.5, 0.5, 0.5, 1.0],
+    "metallic": 1.0,
+    "occlusion": 1.0,
+    "roughness": 1.0
+  },
+  "Misc4": {
+    "albedo": [0.5, 0.5, 0.5, 1.0],
+    "metallic": 1.0,
+    "occlusion": 1.0,
+    "roughness": 1.0
+  },
+  "Misc5": {
+    "albedo": [0.5, 0.5, 0.5, 1.0],
+    "metallic": 1.0,
+    "occlusion": 1.0,
+    "roughness": 1.0
+  },
+  "Misc6": {
+    "albedo": [0.5, 0.5, 0.5, 1.0],
+    "metallic": 1.0,
+    "occlusion": 1.0,
+    "roughness": 1.0
+  },
+  "Misc7": {
+    "albedo": [0.5, 0.5, 0.5, 1.0],
+    "metallic": 1.0,
+    "occlusion": 1.0,
+    "roughness": 1.0
+  },
+  "Misc8": {
+    "albedo": [0.5, 0.5, 0.5, 1.0],
+    "metallic": 1.0,
+    "occlusion": 1.0,
+    "roughness": 1.0
+  },
+  "Misc9": {
+    "albedo": [0.5, 0.5, 0.5, 1.0],
+    "metallic": 1.0,
+    "occlusion": 1.0,
+    "roughness": 1.0
+  },
+  "Misc_Chrome": {
+    "albedo": [0.5, 0.5, 0.5, 1.0],
+    "metallic": 1.0,
+    "occlusion": 1.0,
+    "roughness": 1.0
+  },
+  "Misc_Chrome0": {
+    "albedo": [0.5, 0.5, 0.5, 1.0],
+    "metallic": 1.0,
+    "occlusion": 1.0,
+    "roughness": 1.0
+  },
+  "Misc_Chrome1": {
+    "albedo": [0.5, 0.5, 0.5, 1.0],
+    "metallic": 1.0,
+    "occlusion": 1.0,
+    "roughness": 1.0
+  },
+  "Misc_Chrome2": {
+    "albedo": [0.5, 0.5, 0.5, 1.0],
+    "metallic": 1.0,
+    "occlusion": 1.0,
+    "roughness": 1.0
+  },
+  "Misc_Chrome3": {
+    "albedo": [0.5, 0.5, 0.5, 1.0],
+    "metallic": 1.0,
+    "occlusion": 1.0,
+    "roughness": 1.0
+  },
+  "Misc_Chrome4": {
+    "albedo": [0.5, 0.5, 0.5, 1.0],
+    "metallic": 1.0,
+    "occlusion": 1.0,
+    "roughness": 1.0
+  },
+  "Misc_Chrome5": {
+    "albedo": [0.5, 0.5, 0.5, 1.0],
+    "metallic": 1.0,
+    "occlusion": 1.0,
+    "roughness": 1.0
+  },
+  "Misc_Chrome6": {
+    "albedo": [0.5, 0.5, 0.5, 1.0],
+    "metallic": 1.0,
+    "occlusion": 1.0,
+    "roughness": 1.0
+  },
+  "Misc_Chrome7": {
+    "albedo": [0.5, 0.5, 0.5, 1.0],
+    "metallic": 1.0,
+    "occlusion": 1.0,
+    "roughness": 1.0
+  },
+  "Misc_Chrome8": {
+    "albedo": [0.5, 0.5, 0.5, 1.0],
+    "metallic": 1.0,
+    "occlusion": 1.0,
+    "roughness": 1.0
+  },
+  "Misc_Chrome9": {
+    "albedo": [0.5, 0.5, 0.5, 1.0],
+    "metallic": 1.0,
+    "occlusion": 1.0,
+    "roughness": 1.0
+  },
+  "glass": {
+    "isTransparent": true,
+    "albedo": [0.5, 0.5, 0.5, 1.0],
+    "metallic": 1.0,
+    "occlusion": 1.0,
+    "roughness": 1.0
+  },
+  "light_glass_front": {
+    "isTransparent": true,
+    "albedo": [0.5, 0.5, 0.5, 1.0],
+    "metallic": 1.0,
+    "occlusion": 1.0,
+    "roughness": 1.0
+  }
+}
